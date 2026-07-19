@@ -1,0 +1,9 @@
+5,Engine Coolant Temp,°C
+12105096,Boost pressure,kPa
+12105012,Glow plugs,%
+12105013,Engine oil temperture,°C
+12105014,DPF soot,g
+12105015,DPF temperature,°C
+12105004,Battery charge,A
+12105002,Battery state,%
+12105090,Twilight sensor,V

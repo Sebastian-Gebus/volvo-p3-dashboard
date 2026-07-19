@@ -1,0 +1,87 @@
+Coolant temp -
+1657	352.701728	XiaomiCommun_cf:76:4a (Xiaomi 14)	13:e0:2f:8d:49:b9 (Android-Vlink)	SPP	22	Sent "ATSH7DF\r"
+1664	352.716940	13:e0:2f:8d:49:b9 (Android-Vlink)	XiaomiCommun_cf:76:4a (Xiaomi 14)	SPP	18	Rcvd "OK\r\r>"
+1665	352.726581	XiaomiCommun_cf:76:4a (Xiaomi 14)	13:e0:2f:8d
+:49:b9 (Android-Vlink)	SPP	19	Sent "0105\r"
+1669	352.745672	13:e0:2f:8d:49:b9 (Android-Vlink)	XiaomiCommun_cf:76:4a (Xiaomi 14)	SPP	25	Rcvd "7E803410551\r"
+1670	352.789472	13:e0:2f:8d:49:b9 (Android-Vlink)	XiaomiCommun_cf:76:4a (Xiaomi 14)	SPP	15	Rcvd "\r>"
+
+
+Intake air temp -
+1671	352.804124	XiaomiCommun_cf:76:4a (Xiaomi 14)	13:e0:2f:8d:49:b9 (Android-Vlink)	SPP	20	Sent "010F1\r"
+1674	352.827077	13:e0:2f:8d:49:b9 (Android-Vlink)	XiaomiCommun_cf:76:4a (Xiaomi 14)	SPP	27	Rcvd "7E803410F4C\r\r>"
+
+
+CEM Battery charge
+1675	352.836794	XiaomiCommun_cf:76:4a (Xiaomi 14)	13:e0:2f:8d:49:b9 (Android-Vlink)	SPP	22	Sent "ATSH726\r"
+1680	352.874691	XiaomiCommun_cf:76:4a (Xiaomi 14)	13:e0:2f:8d:49:b9 (Android-Vlink)	SPP	22	Sent "2240281\r"
+1679	352.864521	13:e0:2f:8d:49:b9 (Android-Vlink)	XiaomiCommun_cf:76:4a (Xiaomi 14)	SPP	18	Rcvd "OK\r\r>"
+1683	352.923706	13:e0:2f:8d:49:b9 (Android-Vlink)	XiaomiCommun_cf:76:4a (Xiaomi 14)	SPP	29	Rcvd "72E0462402853\r\r>"
+
+1588	351.858629	XiaomiCommun_cf:76:4a (Xiaomi 14)	13:e0:2f:8d:49:b9 (Android-Vlink)	SPP	21	Sent "224028\r"
+1594	351.916308	13:e0:2f:8d:49:b9 (Android-Vlink)	XiaomiCommun_cf:76:4a (Xiaomi 14)	SPP	27	Rcvd "72E0462402853\r"
+
+
+~84% -> 2853
+
+CEM Battery voltage
+1686	352.933458	XiaomiCommun_cf:76:4a (Xiaomi 14)	13:e0:2f:8d:49:b9 (Android-Vlink)	SPP	22	Sent "22402A1\r"
+1690	352.989504	13:e0:2f:8d:49:b9 (Android-Vlink)	XiaomiCommun_cf:76:4a (Xiaomi 14)	SPP	29	Rcvd "72E0462402A7A\r\r>"
+1599	351.968546	XiaomiCommun_cf:76:4a (Xiaomi 14)	13:e0:2f:8d:49:b9 (Android-Vlink)	SPP	21	Sent "22402A\r"
+1604	352.063665	13:e0:2f:8d:49:b9 (Android-Vlink)	XiaomiCommun_cf:76:4a (Xiaomi 14)	SPP	27	Rcvd "72E0462402A7A\r"
+
+
+~12V -> 2A7A
+
+
+
+ECM Alternator (ATSH7E0 / 22D924)
+1516	351.115687	XiaomiCommun_cf:76:4a (Xiaomi 14)	13:e0:2f:8d:49:b9 (Android-Vlink)	SPP	22	Sent "ATSH7E0\r"
+1520	351.151277	13:e0:2f:8d:49:b9 (Android-Vlink)	XiaomiCommun_cf:76:4a (Xiaomi 14)	SPP	18	Rcvd "OK\r\r>"
+1521	351.161879	XiaomiCommun_cf:76:4a (Xiaomi 14)	13:e0:2f:8d:49:b9 (Android-Vlink)	SPP	21	Sent "22D924\r"
+1525	351.188226	13:e0:2f:8d:49:b9 (Android-Vlink)	XiaomiCommun_cf:76:4a (Xiaomi 14)	SPP	29	Rcvd "7E80562D9240000\r"
+
+
+ECM Glow plugs
+1528	351.227679	XiaomiCommun_cf:76:4a (Xiaomi 14)	13:e0:2f:8d:49:b9 (Android-Vlink)	SPP	21	Sent "22D9A0\r"
+1531	351.269021	13:e0:2f:8d:49:b9 (Android-Vlink)	XiaomiCommun_cf:76:4a (Xiaomi 14)	SPP	33	Rcvd "7E80762D9A000000000\r"
+
+
+ECM Engine oil temp
+1625	352.281568	XiaomiCommun_cf:76:4a (Xiaomi 14)	13:e0:2f:8d:49:b9 (Android-Vlink)	SPP	21	Sent "22D9DC\r"
+1628	352.326690	13:e0:2f:8d:49:b9 (Android-Vlink)	XiaomiCommun_cf:76:4a (Xiaomi 14)	SPP	29	Rcvd "7E80562D9DC0C26\r"
+
+
+ECM DPF Soot
+1630	352.369558	XiaomiCommun_cf:76:4a (Xiaomi 14)	13:e0:2f:8d:49:b9 (Android-Vlink)	SPP	21	Sent "22D9F2\r"
+1634	352.398286	13:e0:2f:8d:49:b9 (Android-Vlink)	XiaomiCommun_cf:76:4a (Xiaomi 14)	SPP	29	Rcvd "7E80562D9F202D0\r"
+
+
+ECM DPF Temperature
+1636	352.448387	XiaomiCommun_cf:76:4a (Xiaomi 14)	13:e0:2f:8d:49:b9 (Android-Vlink)	SPP	21	Sent "22D9F9\r"
+1639	352.507143	13:e0:2f:8d:49:b9 (Android-Vlink)	XiaomiCommun_cf:76:4a (Xiaomi 14)	SPP	29	Rcvd "7E80562D9F90CA1\r"
+
+
+ECM DPF pressure
+1644	352.524064	XiaomiCommun_cf:76:4a (Xiaomi 14)	13:e0:2f:8d:49:b9 (Android-Vlink)	SPP	21	Sent "22DAC8\r"
+1648	352.606989	13:e0:2f:8d:49:b9 (Android-Vlink)	XiaomiCommun_cf:76:4a (Xiaomi 14)	SPP	29	Rcvd "7E80562DAC80000\r"
+
+
+ECM Boost pressure
+1651	352.624533	XiaomiCommun_cf:76:4a (Xiaomi 14)	13:e0:2f:8d:49:b9 (Android-Vlink)	SPP	21	Sent "22D941\r"
+1654	352.667082	13:e0:2f:8d:49:b9 (Android-Vlink)	XiaomiCommun_cf:76:4a (Xiaomi 14)	SPP	29	Rcvd "7E80562D94103D6\r"
+
+
+
+
+
+HEADER, PID, NAME
+726, 4028, cem_battery_charge
+726, 402A, cem_battery_voltage
+7E0, D924, ecm_alternator
+7E0, D9A0, ecm_glow_plugs
+7E0, D9DC, ecm_oil_temp
+7E0, D9F2, ecm_dpf_soot
+7E0, D9F9, ecm_dpf_temp
+7E0, DAC8, ecm_dpf_pressure
+7E0, D941, ecm_boost_pressure
