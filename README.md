@@ -145,5 +145,4 @@ driving, and use at your own risk.
 
 ## License
 
-_No license file yet — add one (e.g. [MIT](https://choosealicense.com/licenses/mit/))
-before sharing if you want others to be able to reuse the code._
+Released under the [MIT License](LICENSE).
